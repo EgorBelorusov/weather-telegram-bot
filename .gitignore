@@ -1,2 +1,10 @@
 .env
 .venv/
+.idea/
+__pycache__/
+node_modules/
+.wrangler/
+.vscode/
+test_weather.py
+my-tg-proxy/
+weather-proxy/
